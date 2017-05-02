@@ -6,6 +6,7 @@ public class Test {
 		for (T element : inputArray) {
 			System.out.printf("%s ", element);
 		}
+		System.out.println();
 	}
 
 	public static void main(String args[]) {
